@@ -30,20 +30,32 @@
 
 ## 2.3 Text Classification
 
-## 2.4 Named entity recognition
+## 2.4 Sentiment Analysis 
 
-## 2.5 Abstractive Summarization
+## 2.5 Named Entity Recognition
 
-## 2.6 Question Answering
+## 2.6 Abstractive Summarization
 
-# 3 Unsupervised Learning
+## 2.7 Question Answering
 
-# 3.1 Generative Adversary Networks
+# 3 Data Mining
+
+## 3.1 Real-Time Bidding
+
+## 3.2 Recommendation Systems
+
+## 3.3 Risk Management
+
+# 3 Semi/Unsupervised Learning
+
+## 3.1 Generative Adversary Networks
 
 # 4 Reinforcement Learning
 
 # 5 Other Topic
 
-# 5.1 Adversary Examples
+## 5.1 Adversary Examples
 
-# 5.2 Style Transfer
+## 5.2 Style Transfer
+
+## 5.3 Vis DL

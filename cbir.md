@@ -38,6 +38,7 @@
 #### Local Feature Based
 
 - ASIFT: An Algorithm for Fully Affine Invariant Comparison
+- Three things everyone should know to improve object retrieval
 - Speeded-Up Robust Features (SURF)    
 - Learning Vocabularies over a Fine Quantization
 - Object retrieval with large vocabularies and fast spatial matching
@@ -113,6 +114,7 @@
 - Detection of Near-duplicate Images for Web Search
 - Efficient Near-duplicate Detection and Sub-image Retrieval
 - High-Confidence Near-Duplicate Image Detection
+- An Evaluation of Digital Image Forgery Detection Approaches
 
 #### Useful Package
 

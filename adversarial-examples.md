@@ -30,7 +30,6 @@
 - Certifying Some Distributional Robustness with Principled Adversarial Training
 - Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality
 - Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models
-- Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models
 - Stochastic Activation Pruning for Robust Adversarial Defense
 - Thermometer Encoding: One Hot Way To Resist Adversarial Examples
 - PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples
@@ -48,7 +47,7 @@
 - Understanding Deep Neural Networks with Rectified Linear Units
 - Mitigating Adversarial Effects Through Randomization
 - Decision Boundary Analysis of Adversarial Examples
-- Generating Natural Adversarial Examples 
+- Generating Natural Adversarial Examples, [Code](https://github.com/zhengliz/natural-adversary)
 - Spatially Transformed Adversarial Examples
 - Robustness of Classifiers to Universal Perturbations: A Geometric Perspective 
 - Fix your classifier: the marginal value of training the last weight layer 
@@ -114,3 +113,13 @@
 - Defense Against Universal Adversarial Perturbations
 - Generative Adversarial Perturbations
 - Robust Physical-World Attacks on Deep Learning Visual Classification
+
+# Useful Package
+- [foolbox](https://github.com/bethgelab/foolbox)
+- [Adversarial-Examples-in-PyTorch](https://github.com/akshaychawla/Adversarial-Examples-in-PyTorch)
+
+# Other
+- Adversarial Patch
+- Practical Black-Box Attacks against Machine Learning
+- Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks
+- Adversarial Attacks Against Medical Deep Learning Systems

@@ -7,13 +7,25 @@
 - [ICML2016 Visualization for Deep Learning](https://icmlviz.github.io/icmlviz2016/home/)
 - [ACCV 2016 Interpretation and Visualization of Deep Neural Nets](http://interpretable-ml.org/accv2016workshop/)
 
+#### General Topic
+
+- Visualizing and Comparing AlexNet and VGG using Deconvolutional Layers. *Wei Yu et al*, ICML2016 Viz Workshop. 
+- Evolutionary Visual Analysis of Deep Neural Networks. *Wen Zhong et al*, ICML2017 Viz Workshop.
+- Towards Visual Explanations for Convolutional Neural Networks via Input Resampling. *Benjamin J Lengerich et al*, ICML2017 Viz Workshop.
+- Visualizing Feature Maps in Deep Neural Networks using DeepResolve - A Genomics Case Study. *Ge Liu et al*, ICML2017 Viz Workshop.
+
 #### Saliency Map
 
-
+- Deep saliency: What is learnt by a deep network about saliency?. *Sen He et al*, ICML2017 Viz Workshop.
+- SmoothGrad: removing noise by adding noise. *Daniel Smilkov et al*, ICML2017 Viz Workshop.
+- A unified view of gradient-based attribution methods for Deep Neural Networks. *M Ancona et al*, NIPS2017 Workshop.
+- The (Un)reliability of saliency methods. *P Kindermans et al*, NIPS2017 Workshop.
 
 #### Interpreting Descision
 
-
+- An Introduction to Deep Visual Explanation. *H Khalifa et al*, NIPS2017 Workshop.
+- Separable explanations of neural network decisions. *L Rieger*, NIPS2017 Workshop.
+- Relating Input Concepts to Convolutional Neural Network Decisions. *N Xie*, NIPS2017 Workshop.
 
 #### Blog
 

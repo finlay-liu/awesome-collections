@@ -3,6 +3,7 @@
 #### Workshop
 - [NIPS2017 Interpreting, Explaining and Visualizing Deep Learning](http://www.interpretable-ml.org/nips2017workshop/)
 - [ICML2017 Visualization for Deep Learning](http://icmlviz.github.io/)
+- [ICML2016 Visualization for Deep Learning](https://icmlviz.github.io/icmlviz2016/home/)
 - [ACCV 2016 Interpretation and Visualization of Deep Neural Nets](http://interpretable-ml.org/accv2016workshop/)
 
 #### Saliency Map

@@ -5,6 +5,8 @@
 - SIFT Meets CNN: A Decade Survey of Instance Retrieval
 - A Comprehensive Study Over VLAD and Product Quantization in Large-Scale Image Retrieval, **[Code](https://github.com/MKLab-ITI/multimedia-indexing)**
 - Recent Advance in Content-based Image
+- A survey on content based image retrieval
+- Intelligent Image Retrieval Techniques: A Survey
 - SIFT Meets CNN A Decade Survey of Instance Retrieval
 - Deep Learning for Content-Based Image Retrieval: A Comprehensive Study
 
@@ -28,9 +30,6 @@
 | MS-COCO          |                |          |           |              |                 |
 | ImageNet         | Classification | Landmark |           |              | 1000            |
 | Google-Landmarks | Retrieval      | Landmark |           |              |                 |
-
-
-
 
 #### Global Feature Based (Without DL)
 
@@ -70,10 +69,17 @@
 
 #### Deep Learning Feature (Global Feature)
 
+- Using Very Deep Autoencoders for Content-Based Image Retrieval
+- Learning High-level Image Representation for Image Retrieval via Multi-Task DNN using Clickthrough Data
 - Fine-tuning CNN Image Retrieval with No Human Annotation
-- Neural Codes for Image RetrievalCompressed    
+- Efficient On-the-fly Category Retrieval using ConvNets and GPUs
+- Neural Codes for Image RetrievalCompressed
+- Aggregating Deep Convolutional Features for Image Retrieval
+- Learning visual similarity for product design with convolutional neural networks
+- Group Invariant Deep Representations for Image Instance Retrieval
+- Where to Focus: Query Adaptive Matching for Instance Retrieval Using Convolutional Feature Maps
 - Multi-Scale Orderless Pooling of Deep Convolutional Activation Features
-- Deep Image Retrieval:Learning Global Representations for Image earch
+- Deep Image Retrieval: Global Representations for Image earch
 - End-to-end Learning of Deep Visual Representations for Image retrieval
 - What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?
 - Bags of Local Convolutional Features for Scalable Instance Search
@@ -93,9 +99,13 @@
 - Fine-tuning CNN Image Retrieval with No Human Annotation
 - Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval
 - Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval
+- Deep image representations using caption generators. ICME 2017
+- Image2song: Song Retrieval via Bridging Image Content and Lyric Words. ICCV 2017
+- Natural Language Object Retrieval
 
 #### Deep Learning Feature (Local Feature)
 
+- Exploiting Local Features from Deep Networks for Image Retrieval
 - **affnet**: [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), **[Code](https://github.com/ducha-aiki/affnet)**
 - A Large Dataset for Improving Patch Matching, **[Code](https://github.com/rmitra/PS-Dataset)**(PS-Dataset)
 - **hardnet**: [Working hard to know your neighbor's margins: Local descriptor learning loss](https://github.com/DagnyT/hardnet)
@@ -105,6 +115,26 @@
 - DELF
 - siaMAC
 - R-MAC
+- Image Retrieval with Deep Local Features and Attention-based Keypoints
+
+#### Hashing Method
+
+- Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks
+- Fast Training of Triplet-based Deep Binary Embedding Networks
+- Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval. ICCV 2017
+
+#### Instance Search
+
+- Bags of Local Convolutional Features for Scalable Instance Search
+- Faster R-CNN Features for Instance Search, **[Code]**(https://github.com/imatge-upc/retrieval-2016-deepvision)
+- Where to Focus: Query Adaptive Matching for Instance Retrieval Using Convolutional Feature Maps
+- One-Shot Fine-Grained Instance Retrieval. ACM MM 2017
+- Class-Weighted Convolutional Features for Visual Instance Search, **[Code]**(https://github.com/imatge-upc/retrieval-2017-cam)
+
+#### Fashion Retrieval
+
+- Where to Buy It: Matching Street Clothing Photos in Online Shops
+- DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations
 
 #### Duplicate(copy) detection
 - A New Approach to Image Copy Detection
@@ -123,3 +153,10 @@
 - [dlib](http://dlib.net/)
 - [VLFeat](http://www.vlfeat.org/)
 - [Yael](http://yael.gforge.inria.fr/)
+
+#### Famous Scholar
+
+- [Hervé Jégou](http://people.rennes.inria.fr/Herve.Jegou/)
+- [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/)
+- [Qi Tian](http://www.cs.utsa.edu/~qitian/)
+- [Artem Babenko](https://www.hse.ru/en/org/persons/133709478)

@@ -26,9 +26,24 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
 
 #### Attacks
 
+##### Universal Perturbations    
+
+- Universal adversarial perturbations, CVPR 2017.
+-  Fast feature fool: A data independent approach to universal adversarial perturbations, BMVC 2017.
+- Generalizable data-free objective for crafting universal adversarial perturbations, arXiv 2018.
+- NAG: Network for Adversary Generation, CVPR 2018.
+
+##### OnePixel Perturbations
+
+- One pixel attack for fooling deep neural networks, arXiv 2017.
+- Attacking Convolutional Neural Network using Differential Evolution, arXiv  2018.
+- Deflecting Adversarial Attacks with Pixel Deflection, CVPR 2018.
+- Exploring Adversarial Examples Patterns of One-Pixel Attacks, arXiv  2018.
+
+##### General Perturbations
+
 - Adversarial Manipulation of Deep Representations, ICLR 2016.  [Code](https://github.com/fartashf/under_convnet)
 - Adversarial Patch, arxiv 2017.
-- Universal Adversarial Perturbations, CVPR 2017.
 - Adversarial Examples for Semantic Segmentation and Object Detection, ICCV 2017.
 - Adversarial Image Perturbation for Privacy Protection - A Game Theory Perspective, ICCV 2017.
 - Adversarial examples in the physical world, ICLR 2017.
@@ -38,7 +53,7 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
 - Adversarial Attacks on Neural Network Policies, ICLR Workshop 2017.
 - Robustness to Adversarial Examples through an Ensemble of Specialists, ICLR Workshop 2017.
 - Art of singular vectors and universal adversarial perturbations, CVPR 2018.
-- Deflecting Adversarial Attacks with Pixel Deflection, CVPR 2018.
+- 
 - Boosting Adversarial Attacks With Momentum, CVPR 2018.
 - Generative Adversarial Perturbations, CVPR 2018.
 - Attacking Binarized Neural Networks, ICLR 2018.
@@ -140,7 +155,7 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
     - [23th Solution](https://github.com/toshi-k/kaggle-nips-2017-adversarial-attack), Average prediction with batch-wised statistics.
     - [24th Solution](https://github.com/mmoraes-rafael/nips-2017_adversarial_defense)
     - [37th Solution](https://github.com/alexander-rakhlin/NIPS-2017-Adversarial-contests)
-    
+  
 - [MCS 2018. Adversarial Attacks on Black Box Face Recognition](https://competitions.codalab.org/competitions/19090)
   - [1st Solutions](https://spark-in.me/post/playing-with-mcs2018-adversarial-attacks), [Code](https://github.com/snakers4/msc-2018-final), [Slides](https://drive.google.com/open?id=1P-4AdCqw81nOK79vU_m7IsCVzogdeSNq)
   ![](https://pics.spark-in.me/upload/a05f205df4309764661a968236d68830.png)

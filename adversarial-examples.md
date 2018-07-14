@@ -37,7 +37,6 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
 
 - One pixel attack for fooling deep neural networks, arXiv 2017.
 - Attacking Convolutional Neural Network using Differential Evolution, arXiv  2018.
-- Deflecting Adversarial Attacks with Pixel Deflection, CVPR 2018.
 - Exploring Adversarial Examples Patterns of One-Pixel Attacks, arXiv  2018.
 
 ##### General Perturbations
@@ -53,7 +52,6 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
 - Adversarial Attacks on Neural Network Policies, ICLR Workshop 2017.
 - Robustness to Adversarial Examples through an Ensemble of Specialists, ICLR Workshop 2017.
 - Art of singular vectors and universal adversarial perturbations, CVPR 2018.
-- 
 - Boosting Adversarial Attacks With Momentum, CVPR 2018.
 - Generative Adversarial Perturbations, CVPR 2018.
 - Attacking Binarized Neural Networks, ICLR 2018.
@@ -90,6 +88,7 @@ Adversarial examples are imperceptible to human but can easily fool deep neural 
 - On the Robustness of Semantic Segmentation Models to Adversarial Attacks, CVPR 2018.
 - On the Robustness of Semantic Segmentation Models to Adversarial Attacks, CVPR 2018.
 - Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser, CVPR 2018.
+- Deflecting Adversarial Attacks with Pixel Deflection, CVPR 2018.
 - Defense Against Universal Adversarial Perturbations, CVPR 2018.
 - Robust Physical-World Attacks on Deep Learning Visual Classification, CVPR 2018.
 - Certifying Some Distributional Robustness with Principled Adversarial Training, ICLR 2018.

@@ -21,9 +21,12 @@
 #### Paper
 
 - Factorization machines with libFM
-- Image Matters: Visually modeling user behaviors using Advanced Model Server
-- DeepFM: a factorization-machine based neural network for ctr prediction
-- 2018KDD: xDeepFM Combining Explicit and Implicit Feature Interactions for Recommender Systems
+- [arxiv 2017] Image Matters: Visually modeling user behaviors using Advanced Model Server
+- [arxiv 2016]Wide & Deep Learning for Recommender Systems
+- [IJCAI 2017] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+- [KDD 2018] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems
+- [IJCAI 2018] Convolutional Neural Networks based Click-Through Rate Prediction with Multiple Feature Sequences
+
 
 #### Useful Package
 

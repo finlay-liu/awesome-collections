@@ -14,10 +14,16 @@
 - [Recommender Systems Handbook](https://book.douban.com/subject/26437066/)
 - [推荐系统实践](https://book.douban.com/subject/10769749/)
 
+#### Survey
+
+- 2017: Deep Learning based Recommender System: A Survey and New Perspectives
+
 #### Paper
 
 - Factorization machines with libFM
+- Image Matters: Visually modeling user behaviors using Advanced Model Server
 - DeepFM: a factorization-machine based neural network for ctr prediction
+- 2018KDD: xDeepFM Combining Explicit and Implicit Feature Interactions for Recommender Systems
 
 #### Useful Package
 

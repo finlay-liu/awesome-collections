@@ -72,7 +72,7 @@ There are the model evaluation in ImageNet dataset.
 
 ### Object Detection
 
-**Object detection** is a computer technology related to computer vision and image processing that deals with**detecting** instances of semantic **objects** of a certain class (such as humans, buildings, or cars) in digital images and videos. 
+**Object detection** is a computer technology related to computer vision and image processing that deals with**detecting** instances of semantic **objects** of a certain class (such as humans, buildings, or cars) in digital images and videos. 
 
 #### Dataset
 
@@ -92,3 +92,37 @@ TODO
 - https://arxiv.org/abs/1906.07155
 - https://arxiv.org/abs/1902.04103
 - https://arxiv.org/abs/1903.05831
+
+### Image Segmentation
+
+#### Dataset
+
+| Dataset Name      | Content | Size | Nunber of  categories |
+| ----------------- | ------- | ---- | --------------------- |
+| PASCAL VOC        |         |      |                       |
+| MS COCO           |         |      |                       |
+| Cityscapes        |         |      | 30                    |
+| CamVid            |         |      | 32                    |
+| ADE20K            |         |      |                       |
+| NYU Depth Dataset |         |      |                       |
+| SUN RGB-D         |         |      |                       |
+
+### Video
+
+#### Dataset
+
+| Dataset Name                | Type           | Size      | Nunber of  categories |
+| --------------------------- | -------------- | --------- | --------------------- |
+| UCF-101                     | Classification | 13,320    | 101                   |
+| HMDB51                      | Classification |           |                       |
+| Sports-1M                   | Classification | 1,133,157 | 487                   |
+| YouTube 8M                  | Classification | 6.1M      | 3862                  |
+| Atomic Visual Actions (AVA) |                |           |                       |
+| Moments in Time (MIT)       |                |           |                       |
+| LSMDC                       |                |           |                       |
+
+#### Model
+
+http://cs231n.stanford.edu/slides/2018/cs231n_2018_ds08.pdf 
+
+http://vision.stanford.edu/pdf/karpathy14.pdf
